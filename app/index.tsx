@@ -3,6 +3,8 @@ import ContactsIcons from "./sections/contact-section/contacts-icons";
 import EventsPage from "./sections/EventsPage/events-page";
 
 
+
+
 export default function Index() {
   const styles = StyleSheet.create({
     container: {
